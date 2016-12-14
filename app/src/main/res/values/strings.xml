@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Examen de Recuperacion</string>
+    <string name="act1">Actividad1</string>
+    <string name="act2">Actividad2</string>
+    <string name="act3">Actividad3</string>
+    <string name="salir">Salir</string>
+    <string name="lblsolicitud">Solicitud de Consulta</string>
+    <string name="lblnombre">Nombre paciente:</string>
+    <string name="lblcita">Desea ser citado con:</string>
+    <string name="radio1">Medico</string>
+    <string name="radio2">Enfermera</string>
+    <string name="lbldia">Elija el dia de la semana que desea ser atendido</string>
+    <string name="btnsolicitar">Solicitar</string>
+    <string name="lblmedicos">Medico:</string>
+    <string name="lblenfermeras">Enfermera:</string>
+    <string name="lblseleccion">Datos Consulta Seleccionada\n</string>
+    <string name="lblnombre2"></string>
+    <string name="lbldia2">Ha solicitado una consulta el </string>
+    <string name="lblcita2">con su </string>
+    <string name="btnaceptar">Aceptar</string>
+    <string name="btnrechazar">Rechazar</string>
+    <string name="lbllistado">Listado Institutos FP de Vitoria</string>
+</resources>
